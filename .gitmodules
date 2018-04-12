@@ -1,0 +1,63 @@
+[submodule "dracula"]
+	path = dracula
+	url = https://github.com/dracula/xcode.git
+[submodule "WWDC2016-Xcode-Color-Scheme"]
+	path = WWDC2016-Xcode-Color-Scheme
+	url = https://github.com/cargath/WWDC2016-Xcode-Color-Scheme.git
+[submodule "one-dark"]
+	path = one-dark
+	url = https://github.com/bojan/xcode-one-dark.git
+[submodule "WWDC17-Xcode-Theme"]
+	path = WWDC17-Xcode-Theme
+	url = https://github.com/mozharovsky/WWDC17-Xcode-Theme.git
+[submodule "Candy"]
+	path = Candy
+	url = https://github.com/candy7/Xcode-Theme-Color.git
+[submodule "zen-and-art"]
+	path = zen-and-art
+	url = https://github.com/irfn/zen-and-art.git
+[submodule "nord"]
+	path = nord
+	url = https://github.com/arcticicestudio/nord-xcode.git
+[submodule "WashedOut"]
+	path = WashedOut
+	url = https://github.com/hollance/WashedOut.git
+[submodule "MaterialTheme"]
+	path = MaterialTheme
+	url = https://github.com/sasikiran/Material-Theme-for-Xcode.git
+[submodule "base16-ocean"]
+	path = base16-ocean
+	url = https://github.com/eliperkins/base16-Ocean-Xcode-Theme.git
+[submodule "Flat"]
+	path = Flat
+	url = https://github.com/etsushisa/Flat-Theme-Xcode.git
+[submodule "solarized"]
+	path = solarized
+	url = https://github.com/zacbir/solarized-xcode.git
+[submodule "Handcrafted"]
+	path = Handcrafted
+	url = https://github.com/jpedroso/color-themes.git
+[submodule "Railscasts"]
+	path = Railscasts
+	url = https://github.com/petejkim/railscasts_xcode_color_theme.git
+[submodule "DullDark"]
+	path = DullDark
+	url = https://github.com/indragiek/xcode-themes.git
+[submodule "ANODA"]
+	path = ANODA
+	url = https://github.com/anodamobi/AnodaXCodeColorTheme.git
+[submodule "Iceberg"]
+	path = Iceberg
+	url = https://github.com/cocopon/xcode-iceberg.git
+[submodule "rainglow"]
+	path = rainglow
+	url = https://github.com/rainglow/xcode.git
+[submodule "Darkloud"]
+	path = Darkloud
+	url = https://github.com/jameswomack/XCode-Themes.git
+[submodule "Taskworld"]
+	path = Taskworld
+	url = https://github.com/kindraywind/xcode-themes.git
+[submodule "seoul256"]
+	path = seoul256
+	url = https://github.com/jeongjoonl/seoul256-Xcode.git
