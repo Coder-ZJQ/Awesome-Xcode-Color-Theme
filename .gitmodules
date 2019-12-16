@@ -61,3 +61,30 @@
 [submodule "themes/ANODA"]
 	path = themes/ANODA
 	url = https://github.com/anodamobi/AnodaXCodeColorTheme.git
+[submodule "themes/Amoyly"]
+	path = themes/Amoyly
+	url = https://github.com/Br1an6/Amoyly-Xcode-Themes
+[submodule "themes/monokai-revisited"]
+	path = themes/monokai-revisited
+	url = https://github.com/halcyonmobile/xcode-monokai-revisited.git
+[submodule "themes/Sundell"]
+	path = themes/Sundell
+	url = https://github.com/JohnSundell/XcodeTheme.git
+[submodule "themes/lucario"]
+	path = themes/lucario
+	url = https://github.com/raphamorim/lucario.git
+[submodule "themes/spacegary"]
+	path = themes/spacegary
+	url = https://github.com/zdne/spacegray-xcode.git
+[submodule "themes/OceanicNext"]
+	path = themes/OceanicNext
+	url = https://github.com/dmcrodrigues/Oceanic-Next-Xcode-Theme.git
+[submodule "themes/GapStyle"]
+	path = themes/GapStyle
+	url = https://github.com/gaplo917/GapStyle.git
+[submodule "themes/CharmedDark"]
+	path = themes/CharmedDark
+	url = https://github.com/CypherPoet/charmed-dark-xcode-theme.git
+[submodule "themes/Ciapre"]
+	path = themes/Ciapre
+	url = https://github.com/vinhnx/Ciapre-Xcode-theme.git
